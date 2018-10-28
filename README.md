@@ -1,5 +1,8 @@
 # uhooks
  Explore hooks and start creating your own hooks
+ 
+## Eslint
+1. [eslint-plugin-react-hooks](https://www.npmjs.com/package/eslint-plugin-react-hooks)
 
 ## Projects
 1. [vue-hooks](https://github.com/yyx990803/vue-hooks)
