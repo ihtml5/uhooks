@@ -1,6 +1,9 @@
 # uhooks
  Explore hooks and start creating your own hooks
  
+## Usage
+1. npm i && npm start
+
 ## Eslint
 1. [eslint-plugin-react-hooks](https://www.npmjs.com/package/eslint-plugin-react-hooks)
 
