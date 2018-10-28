@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useReducer, useMemo, useRef } from 'react';
+import React, { useState, useEffect, useReducer, useRef } from 'react';
 import { todosReducer } from '../useReducer';
 
 function useCount(initValue = 0) {
@@ -38,4 +38,4 @@ function Muso(props) {
 	);
 }
 
-export default useMemo(() => <Muso/>);
+export default Muso;
